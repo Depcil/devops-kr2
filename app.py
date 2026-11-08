@@ -1,3 +1,4 @@
+# KR2: Samartsev
 import os
 import socket
 
